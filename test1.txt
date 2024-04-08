@@ -1,1 +1,1 @@
-blalblablalblalblal lalblbalblbl l gik blablbla pw
+print("Hello world"
